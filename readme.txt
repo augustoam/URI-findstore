@@ -1,5 +1,6 @@
-Instalação
-Instruções de instalação:
+# Find Store
+
+> Instruções de instalação:
 1: Baixe os arquivos deste repositório
 2: Extraia os arquivos para seu computador
 3: Abra a pasta SINTA
